@@ -1,19 +1,28 @@
-# gooeyApp
-Ionic Starter App with a gooey menu inspired by [Codrops Gooey Menu effect](http://tympanus.net/Development/CreativeGooeyEffects/menu.html) with animations inspired by [this GoneHybrid tutorial](http://gonehybrid.com/how-to-animate-your-ionic-app-with-animate-css-and-nganimate/)
+# Bithday Apps
+i dedicated birthday apps specially for you.
+Happy Birthday 30 March 2016
+informatic relationship
+using ionic framework
 
 ## Install
 
 Option 1: in browser <br />
 
 * Install node + ionic: http://ionicframework.com/
-* Go to gooeyApp directory
+* Go to birthday Apps directory
 * Run ionic serve
 
 
 Option 2: Ionic Lab <br />
 * Install Ionic Lab: http://lab.ionic.io/
-* Open gooeyApp in Ionic Lab
+* Open birthday Apps in Ionic Lab
 
+Option 3: Running Apps
+* open directory "cd directory app"
+* npm install
+* dir
+* bower install
+* ionic serve
 
 ## Preview
 
